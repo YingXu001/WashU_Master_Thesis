@@ -7,6 +7,7 @@ This repository hosts the Master's Thesis project "Adversarial Attacks on Graph 
 - **Thesis Paper:** Detailed research documentation.
 - **Defense Slides:** Presentation for thesis defense.
 - **AAAI Workshop Paper:** [View the paper](https://arxiv.org/abs/2402.12426).
+- **Code repo:** [Code](https://github.com/YingXu001/Attacks_on_Graph_Node_Attributes).
 
 ## Overview
 
